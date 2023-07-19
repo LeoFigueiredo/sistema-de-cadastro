@@ -4,4 +4,6 @@
 
 > Para instalar o programa, execute o seguinte comando em seu computador: 
 
-npm install
+'''
+npm install react
+'''

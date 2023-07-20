@@ -15,3 +15,6 @@ console.log("texto novo")
 
 
 console.log("joguei mais um texto")
+
+
+console.log ("texto 2")

@@ -10,3 +10,4 @@ console.log ("Adição de dois valores"x + y);
 
 console.log ("mudei de Ideia, adicionando novamente o comentário");
 
+console.log("não sei como está o desenvolvimento do código no pc, após o push sabereu :)");

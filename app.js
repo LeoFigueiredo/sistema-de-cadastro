@@ -10,4 +10,3 @@ console.log ("Adição de dois valores"x + y);
 
 console.log ("mudei de Ideia, adicionando novamente o comentário");
 
-console.log("Sim, é mais um texto");

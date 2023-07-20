@@ -12,3 +12,6 @@ console.log ("mudei de Ideia, adicionando novamente o comentário");
 
 
 console.log("texto novo")
+
+
+console.log("joguei mais um texto")
